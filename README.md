@@ -7,7 +7,7 @@ HOW TO INSTALL:
 3. Play the game and enjoy!
 
 NOTE:
-Make sure you have NO premium or seedium plants unlocked when you play these levels as you unlock some in some.
+Make sure you have NO premium or seedium plants unlocked when you play these levels as you unlock some in some unless you unlocked one from one of these levels.
 Do not change the file name or it will not work.
 Do not put two levels with the same file name together as one will replace the other.
 
