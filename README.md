@@ -10,3 +10,7 @@ NOTE:
 Make sure you have NO premium or seedium plants unlocked when you play these levels as you unlock some in some.
 Do not change the file name or it will not work.
 Do not put two levels with the same file name together as one will replace the other.
+
+Levels are found on Releases.
+
+This is my first repository I have ever made so the Levels branch does not have anything in it.
