@@ -1,5 +1,5 @@
 # My-PVZ2-Custom-Levels
-This repository includes all of my custom PVZ2 levels made with PVSZ2
+This repository includes all of my custom PVZ2 levels made with PVSZ2 (Link: https://pvsz2.ru/level-editor)
 
 HOW TO INSTALL:
 1. Download one of the RTON files
